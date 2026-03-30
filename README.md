@@ -82,15 +82,6 @@ Most of my work sits around making tools usable in constrained environments, esp
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thoitiettxl-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoitiettxl-cyber&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## Philosophy
 
 > Build useful things.  
